@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-
     <meta charset="UTF-8">
+    <!-- Bootstrap core CSS -->
+    <link href="{{ site.baseurl }}/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
+{% include favicon.html %}
+{% include topnav.html %}
 {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
@@ -15,7 +18,7 @@
 
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <h2 class="project-tagline">{{ page.excerpt | default: page.description | default: site.description | default: site.github.project_tagline }}</h2>
     </header>
 
     <main id="content" class="main-content" role="main">
