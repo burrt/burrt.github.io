@@ -38,15 +38,15 @@ I'm also really passionate about Operating and Distributed Systems, and love lea
 
 After completing my Computer Engineering Thesis at UNSW which was implementing the MMU for an existing bare-metal MIPS I processor, the next logical step was to boot a modified Linux Kernel on it.
 
-I needed to learn many new, challenging and interesting topics before I could begin my task. Some of these include learning about how the Linux Kernel integrates with hardware, cross-compiler toolchains and instruction set simulators.
+I needed to learn many new, challenging and interesting topics before I could begin my task. This included learning about how the Linux Kernel integrates with hardware, cross-compiler toolchains and instruction set simulators.
 
 In the end, I managed to successfully boot the Linux Kernel on the MIPS R3000; and it was an incredible journey.
 
 ### Personal Website
 
-Although this may seem trivial for Software Engineers, I initially create a basic static webpage in 2017.
+Although this may seem trivial for Software Engineers, I initially created a basic static webpage in 2017.
 
-Now, in 2019, I've reworked it to take advantage of Jekyll! Some of the motivations for the change is the scaling concerns, Markdown support and maintainability.
+Now, in 2019, I've reworked it to take advantage of Jekyll! Some of the motivations for the change were scaling concerns, Markdown support and maintainability.
 
 ## Work Experience
 
