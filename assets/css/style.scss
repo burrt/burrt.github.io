@@ -1,6 +1,7 @@
 ---
 ---
-
+// @import url("https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css");
+@import "navbar.css";
 @import "{{ site.theme }}";
 
 .project-name {
@@ -18,48 +19,6 @@
   @include small {
     font-size: 1.75rem;
   }
-}
-
-.navbar-custom {
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-  background-color: fade-out(#000, 0.3);
-  .navbar-brand {
-    // text-transform: uppercase;
-    font-size: 1rem;
-    letter-spacing: 0.1rem;
-    font-weight: 700;
-  }
-  .navbar-nav {
-    .nav-item {
-      .nav-link {
-        // text-transform: uppercase;
-        font-size: 0.8rem;
-        font-weight: 700;
-        letter-spacing: 0.1rem;
-      }
-    }
-  }
-}
-
-.navbar-custom {
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-  background-color: rgba(0, 0, 0, 0.7);
-}
-
-.navbar-custom .navbar-brand {
-  // text-transform: uppercase;
-  font-size: 1rem;
-  letter-spacing: 0.1rem;
-  font-weight: 700;
-}
-
-.navbar-custom .navbar-nav .nav-item .nav-link {
-  // text-transform: uppercase;
-  font-size: 0.8rem;
-  font-weight: 700;
-  letter-spacing: 0.1rem;
 }
 
 code {
@@ -86,4 +45,21 @@ pre {
     margin: 0;
     padding: 0;
   }
+}
+
+nav {
+  background: #f5b335;
+  height: 60x;
+  position: fixed;
+  top: 0;
+  transition: top 0.2s ease-in-out;
+  width: 100%;
+}
+
+.nav-up {
+  top: -60px;
+}
+
+body {
+  font-size: 16px;
 }

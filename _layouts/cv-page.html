@@ -2,8 +2,9 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
+
     <!-- Bootstrap core CSS -->
-    <link href="{{ site.baseurl }}/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
 
 {% include favicon.html %}
 {% include topnav.html %}
@@ -18,7 +19,9 @@
 
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <h2 class="project-tagline">
+        {{ page.description | default: site.description | default: site.github.project_tagline }}
+      </h2>
     </header>
 
     <main id="content" class="main-content" role="main">
@@ -32,4 +35,9 @@
       </footer>
     </main>
   </body>
+
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js'></script>
+  <script src="{{ site.baseurl }}/assets/js/navbar.js"></script>
+
 </html>
