@@ -17,7 +17,7 @@ Anyways, I finally decided to categorise my existing Computer Science Markdown n
 This was the beginnings of my Jekyll journey and as we all say - It's much harder to start than to continue.
 
 My old website was simply using an existing Bootstrap static website template and I basically dumped everything in the HTML.
-This was not a fun experience everytime I need to add or modify stuff - fortunately this occurred very rarely.
+This was not a fun experience every time I need to add or modify stuff - fortunately this occurred very rarely.
 But as time goes by, the more something bugs you, you'll eventually address it so I did!
 
 ## Extras

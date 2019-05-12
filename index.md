@@ -6,7 +6,7 @@ layout: cv-page
 
 Hi, I'm Geoffrey Choy, a recent Computer Engineering graduate from UNSW.
 
-I'm looking to expand my existing skillset and learn how today's software companies are solving large, complex problems that I haven’t been exposed to!
+I'm looking to expand my existing skill set and learn how today's software companies are solving large, complex problems that I haven’t been exposed to!
 
 I'm also really passionate about Operating and Distributed Systems, and love learning new things in the computing world.
 
@@ -18,7 +18,7 @@ I'm also really passionate about Operating and Distributed Systems, and love lea
 * [Programming Languages](#programming-languages)
 * [Interests](#interests)
 
-## Eduation
+## Education
 
 #### 2013 - 2017
 
@@ -40,13 +40,13 @@ After completing my Computer Engineering Thesis at UNSW which was implementing t
 
 I needed to learn many new, challenging and interesting topics before I could begin my task. This included learning about how the Linux Kernel integrates with hardware, cross-compiler toolchains and instruction set simulators.
 
-In the end, I managed to successfully boot the Linux Kernel on the MIPS R3000; and it was an incredible journey.
+In the end, I managed to successfully boot the Linux Kernel on the MIPS R3000 and it was an incredible journey!
 
 ### Personal Website
 
 Although this may seem trivial for Software Engineers, I initially created a basic static webpage in 2017.
 
-Now, in 2019, I've reworked it to take advantage of Jekyll! Some of the motivations for the change were scaling concerns, Markdown support and maintainability.
+Now, in May 2019, I've reworked it to take advantage of Jekyll! Some of the motivations for the change were scaling concerns, Markdown support and maintainability.
 
 ## Work Experience
 
@@ -57,7 +57,7 @@ Now, in 2019, I've reworked it to take advantage of Jekyll! Some of the motivati
   * Member of the Windows Management Service (WMS) team working on Workspace ONE AirWatch and AirLift.
   * Part of an Agile SCRUM work flow with CI/CD mentality
   * Contributed consistently with product releases
-  * Adapted quickly to SOLID principles and peer code reviews adhering to strict and conststent coding standards
+  * Adapted quickly to SOLID principles and peer code reviews adhering to strict and consistent coding standards
   * C#/.NET Core, SQL Server, MongoDB
 
 #### March 2017 – April 2018
@@ -94,7 +94,7 @@ Now, in 2019, I've reworked it to take advantage of Jekyll! Some of the motivati
 
 ### Outdoors
 
-I really enjoy spending my time outdoos and sports!
+I really enjoy spending my time outdoors and sports!
 
 * Tennis
 * Squash
