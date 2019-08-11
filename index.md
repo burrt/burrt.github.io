@@ -34,7 +34,7 @@ I'm also really passionate about Operating and Distributed Systems, and love lea
 
 ## Projects
 
-### Implementing the MIPS I MMU on an FPGA
+### Implementing the MIPS I MMU - FPGA
 
 After completing my Computer Engineering Thesis at UNSW which was implementing the MMU for an existing bare-metal MIPS I processor, the next logical step was to boot a modified Linux Kernel on it.
 
@@ -80,15 +80,15 @@ Now, in May 2019, I've reworked it to take advantage of Jekyll! Some of the moti
 
 ## Programming Languages
 
-| Language    | Proficiency  | Last Used | Use Case                 |
-|-------------|--------------|-----------|--------------------------|
-| C#          | Strong       | 2019      | Enterprise software      |
-| Python      | Intermediate | 2018      | Startup software/scripts |
-| C           | Intermediate | 2018      | Hobby projects           |
-| Java        | Intermediate | 2017      | University               |
-| VHDL        | Intermediate | 2017      | University               |
-| D, Erlang   | Novice       | 2017      | University               |
-| HTML/CSS/JS | Basic        | 2019      | Hobby projects           |
+| Language    | Proficiency  | Last Used | Use Case                            |
+|-------------|--------------|-----------|-------------------------------------|
+| C#          | Strong       | 2019      | Enterprise software                 |
+| HTML/CSS/JS | Basic        | 2019      | Hobby projects, Enterprise software |
+| Python      | Intermediate | 2018      | Startup software/scripts            |
+| C           | Intermediate | 2018      | Hobby projects                      |
+| Java        | Intermediate | 2017      | University                          |
+| VHDL        | Intermediate | 2017      | University                          |
+| D, Erlang   | Novice       | 2017      | University                          |
 
 ## Interests
 
