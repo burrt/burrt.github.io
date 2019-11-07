@@ -54,7 +54,7 @@ Now, in May 2019, I've reworked it to take advantage of Jekyll! Some of the moti
 
 * **[VMware](https://www.vmware.com/au/products/workspace-one/unified-endpoint-management.html)**
 * **Software Development Engineer**
-  * Member of the Windows Management Service (WMS) team working on Workspace ONE AirWatch and AirLift.
+  * Member of the Windows Management Service (WMS) team working on Workspace ONE UEM and AirLift.
   * Part of an Agile SCRUM work flow with CI/CD mentality
   * Contributed consistently with product releases
   * Adapted quickly to SOLID principles and peer code reviews adhering to strict and consistent coding standards
@@ -94,12 +94,12 @@ Now, in May 2019, I've reworked it to take advantage of Jekyll! Some of the moti
 
 ### Outdoors
 
-I really enjoy spending my time outdoors and sports!
+I really enjoy spending my time outdoors on bush walks and playing competitively in my sports!
 
 * Tennis
 * Squash
 * Basketball
-* Hiking & Running
+* Hiking
 * Longboarding
 
 ### Indoors
