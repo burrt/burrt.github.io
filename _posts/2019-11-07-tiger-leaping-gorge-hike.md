@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 title: "Tiger Leaping Gorge Hike 2019"
-date: 2019-04-11 13:46:31 +1000
+date: 2019-11-07 22:15:00 +1000
 categories: [hiking, walks]
 excerpt: Tiger Leaping Gorge Hike in China
 ---
