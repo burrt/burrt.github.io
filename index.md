@@ -6,9 +6,7 @@ layout: cv-page
 
 Hi, I'm Geoffrey Choy, a passionate and curious Software Engineer! I'm always seeking to expand my technical skill set and to discover the ingredients of software excellence and team culture.
 
-With the rise of new technologies,
-innovations and challenges; I am fascinated about how the industry solves large, complex problems at
-scale – particularly Distributed Systems!
+With the rise of new technologies, innovations and challenges; I am fascinated about how the industry solves large, complex problems at scale – particularly Distributed Systems!
 
 ## Contents
 
@@ -64,8 +62,8 @@ small steps, will allow me to achieve my end goal (secret)!
 
 * **[Secure Agility](https://secureagility.com/)**
 * **Software Developer**
-  * Built a network infrastructure monitoring program
-  * Integrate hardware sensors into AWS services like AWS IoT, DynamoDB etc.
+  * Responsible for designing a monitoring application for a client's network infrastructure
+  * Integrating hardware sensors into AWS services like AWS IoT, DynamoDB etc.
   * Responsible for translating business requirements to software deliverables
   * SQL Server, Python, HTML/CSS/JS
 
