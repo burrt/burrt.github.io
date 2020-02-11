@@ -4,11 +4,11 @@ layout: cv-page
 
 # Welcome
 
-Hi, I'm Geoffrey Choy, a recent Computer Engineering graduate from UNSW.
+Hi, I'm Geoffrey Choy, a passionate and curious Software Engineer! I'm always seeking to expand my technical skill set and to discover the ingredients of software excellence and team culture.
 
-I'm looking to expand my existing skill set and learn how today's software companies are solving large, complex problems that I haven’t been exposed to!
-
-I'm also really passionate about Operating and Distributed Systems, and love learning new things in the computing world.
+With the rise of new technologies,
+innovations and challenges; I am fascinated about how the industry solves large, complex problems at
+scale – particularly Distributed Systems!
 
 ## Contents
 
@@ -36,17 +36,17 @@ I'm also really passionate about Operating and Distributed Systems, and love lea
 
 ### Implementing the MIPS I MMU - FPGA
 
-After completing my Computer Engineering Thesis at UNSW which was implementing the MMU for an existing bare-metal MIPS I processor, the next logical step was to boot a modified Linux Kernel on it.
+After completing my Thesis, which was to implement the MMU for a bare-metal MIPS I processor, the next logical step was to boot a modified Linux kernel on it. This requirement brought many challenges I hadn't been exposed to such as understanding the OS and hardware integration, cross-compiler toolchains and instruction set simulators.
 
-I needed to learn many new, challenging and interesting topics before I could begin my task. This included learning about how the Linux Kernel integrates with hardware, cross-compiler toolchains and instruction set simulators.
-
-In the end, I managed to successfully boot the Linux Kernel on the MIPS R3000 and it was an incredible journey!
+I was able to successfully boot the Linux kernel on the synthesized MIPS R3000 processor and it is without a doubt, one of my greatest
+achievements!
 
 ### Personal Website
 
-Although this may seem trivial for Software Engineers, I initially created a basic static webpage in 2017.
+Although this may seem trivial for Software Engineers, I initially created a basic static webpage in 2017. Last year, I've reworked it to take advantage of Jekyll/Markdown after many excuses of delaying this project! Some of the motivations for the change were scaling concerns, Markdown support and maintainability.
 
-Now, in May 2019, I've reworked it to take advantage of Jekyll! Some of the motivations for the change were scaling concerns, Markdown support and maintainability.
+I believe breaking the procrastination barrier and making consistent
+small steps, will allow me to achieve my end goal (secret)!
 
 ## Work Experience
 
@@ -54,7 +54,7 @@ Now, in May 2019, I've reworked it to take advantage of Jekyll! Some of the moti
 
 * **[VMware](https://www.vmware.com/au/products/workspace-one/unified-endpoint-management.html)**
 * **Software Development Engineer**
-  * Member of the Windows Management Service (WMS) team working on Workspace ONE UEM and AirLift.
+  * Member of the Windows Management Service (WMS) team working on Workspace ONE UEM and AirLift
   * Part of an Agile SCRUM work flow with CI/CD mentality
   * Contributed consistently with product releases
   * Adapted quickly to SOLID principles and peer code reviews adhering to strict and consistent coding standards
@@ -64,10 +64,10 @@ Now, in May 2019, I've reworked it to take advantage of Jekyll! Some of the moti
 
 * **[Secure Agility](https://secureagility.com/)**
 * **Software Developer**
-  * Obtain and correlate data from unreliable REST APIs using Python.
+  * Built a network infrastructure monitoring program
   * Integrate hardware sensors into AWS services like AWS IoT, DynamoDB etc.
   * Responsible for translating business requirements to software deliverables
-  * SQL Server, Python, HTML/CSS/JS.
+  * SQL Server, Python, HTML/CSS/JS
 
 #### November 2016 – March 2017
 
@@ -75,20 +75,18 @@ Now, in May 2019, I've reworked it to take advantage of Jekyll! Some of the moti
 * **Research Assistant**
   * Designing a MIPS I Memory Management Unit to run Linux on an FPGA with existing system tools
   * Rewrite drivers to support Linux
-  * Modifying in-house instruction set simulators to boot Linux.
-  * VHDL, C, D, ASM.
+  * Modifying in-house instruction set simulators to boot Linux
+  * VHDL, C, D, ASM
 
 ## Programming Languages
 
-| Language    | Proficiency  | Last Used | Use Case                            |
-|-------------|--------------|-----------|-------------------------------------|
-| C#          | Strong       | 2019      | Enterprise software                 |
-| HTML/CSS/JS | Basic        | 2019      | Hobby projects, Enterprise software |
-| Python      | Intermediate | 2018      | Startup software/scripts            |
-| C           | Intermediate | 2018      | Hobby projects                      |
-| Java        | Intermediate | 2017      | University                          |
-| VHDL        | Intermediate | 2017      | University                          |
-| D, Erlang   | Novice       | 2017      | University                          |
+| Language           | Proficiency  | Last Used | Use Case                            |
+|--------------------|--------------|-----------|-------------------------------------|
+| C#/.NET            | Strong       | 2020      | Enterprise software                 |
+| Java               | Intermediate | 2020      | Hobby projects                      |
+| Python             | Intermediate | 2018      | Startup software/scripts            |
+| HTML/CSS/JS        | Basic        | 2019      | Hobby projects, Enterprise software |
+| C, D, Erlang, VHDL | Basic        | 2017      | University                          |
 
 ## Interests
 
@@ -100,7 +98,7 @@ I really enjoy spending my time outdoors on bush walks and playing competitively
 * Squash
 * Basketball
 * Hiking
-* Longboarding
+* Rock bouldering
 
 ### Indoors
 
