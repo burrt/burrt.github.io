@@ -5,7 +5,7 @@ My personal website I've created using Jekyll and Github Pages! It can be viewed
 ## Cloning
 
 ```bash
-$> git clone git@github.com:<username>/burrt.github.io.git
+$> git clone https://github.com/burrt/burrt.github.io.git
 ```
 
 ## Building
@@ -15,7 +15,7 @@ You can build and host the pages locally - first setup Jekyll in your local envi
 ### Linux
 
 ```bash
-bundle update
+bundle install
 bundle exec jekyll serve
 ```
 
