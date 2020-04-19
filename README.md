@@ -18,3 +18,21 @@ You can build and host the pages locally - first setup Jekyll in your local envi
 bundle update
 bundle exec jekyll serve
 ```
+
+### Windows
+
+#### Docker
+
+```powershell
+# Powershell
+docker run `
+    --rm `
+    --label=jekyll `
+    --volume=${pwd}:/srv/jekyll `
+    -it -p 4000:4000 jekyll/jekyll `
+    jekyll serve `
+        --force_polling `
+        --config _config.yml,_config_development.yml
+```
+
+Or alternatively, run the Powershell script `.\RunDocker.ps1`.
