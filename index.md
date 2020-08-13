@@ -11,7 +11,6 @@ With the rise of new technologies, innovations and challenges; I am fascinated a
 ## Contents
 
 * [Education](#education)
-* [Projects](#projects)
 * [Work Experience](#work-experience)
 * [Programming Languages](#programming-languages)
 * [Interests](#interests)
@@ -30,22 +29,6 @@ With the rise of new technologies, innovations and challenges; I am fascinated a
 * 96.65 ATAR
   * Awarded Mathematics Scholarship
 
-## Projects
-
-### Implementing the MIPS I MMU - FPGA
-
-After completing my Thesis, which was to implement the MMU for a bare-metal MIPS I processor, the next logical step was to boot a modified Linux kernel on it. This requirement brought many challenges I hadn't been exposed to such as understanding the OS and hardware integration, cross-compiler toolchains and instruction set simulators.
-
-I was able to successfully boot the Linux kernel on the synthesized MIPS R3000 processor and it is without a doubt, one of my greatest
-achievements!
-
-### Personal Website
-
-Although this may seem trivial for Software Engineers, I initially created a basic static webpage in 2017. Last year, I've reworked it to take advantage of Jekyll/Markdown after many excuses of delaying this project! Some of the motivations for the change were scaling concerns, Markdown support and maintainability.
-
-I believe breaking the procrastination barrier and making consistent
-small steps, will allow me to achieve my end goal (secret)!
-
 ## Work Experience
 
 #### April 2018 – Present
@@ -53,7 +36,7 @@ small steps, will allow me to achieve my end goal (secret)!
 * **[VMware](https://www.vmware.com/au/products/workspace-one/unified-endpoint-management.html)**
 * **Software Development Engineer**
   * Member of the Windows Management Service (WMS) team working on Workspace ONE UEM and AirLift
-  * Part of an Agile SCRUM work flow with CI/CD mentality
+  * Part of an Agile SCRUM workflow with CI/CD mentality
   * Contributed consistently with product releases
   * Adapted quickly to SOLID principles and peer code reviews adhering to strict and consistent coding standards
   * C#/.NET Core, SQL Server, MongoDB
