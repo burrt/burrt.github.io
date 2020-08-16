@@ -10,7 +10,7 @@ $ git clone https://github.com/burrt/burrt.github.io.git
 
 ## Building
 
-You can build and host the pages locally - first setup Jekyll in your local environment.
+You can build and host the pages locally - first setup [Jekyll](https://jekyllrb.com/docs/) in your local environment.
 
 ### Linux
 
