@@ -17,10 +17,8 @@
 title: My Website
 email: geoffchoy@outlook.com
 description: >-
-  My website that lists some details about myself and various articles
-  I've been meaning to jot down in my life.
+  A little about me and a few thoughts I jot down every so often
 
-url: "http://localhost:4000"
 baseurl: ""
 github_username: burrt
 gh_url: "https://burrt.github.io/"
@@ -30,6 +28,7 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 collections:
   posts:
@@ -46,6 +45,13 @@ defaults:
       type: "posts"
     values:
       lang: "en"
+      image: /assets/img/gchoy-1350x650.png
+
+# SEO
+social:
+  name: Geoffrey Choy
+  links:
+    - https://www.linkedin.com/in/geoffrey-choy
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

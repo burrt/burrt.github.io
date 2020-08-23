@@ -1,12 +1,13 @@
 ---
 layout: cv-page
+image: /assets/img/gchoy-1350x650.png
 ---
 
-# Welcome
+# Hello Stranger!
 
-Hi, I'm Geoffrey Choy, a passionate and curious Software Engineer! I'm always seeking to expand my technical skill set and to discover the ingredients of software excellence and team culture.
+Hi, I'm Geoffrey Choy, a passionate and curious Software Engineer. I'm always seeking to expand my technical skill set and to discover the ingredients of software excellence and team culture.
 
-With the rise of new technologies, innovations and challenges; I am fascinated about how the industry solves large, complex problems at scale – particularly Distributed Systems!
+With the rise of new technologies, innovations and challenges; I am fascinated about how the industry solves large, complex problems at scale!
 
 ## Contents
 
