@@ -2,6 +2,7 @@
 layout: cv-page
 title: About
 permalink: /about/
+description: About my website
 ---
 
 Hi, this page is pretty redundant but I'll leave it here since Jekyll is so awesome; so check out how to generate your own website!

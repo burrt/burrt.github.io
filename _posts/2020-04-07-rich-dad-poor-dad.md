@@ -3,7 +3,8 @@ layout: blog-post
 title: "Rich Dad Poor Dad"
 date: 2020-04-07 20:59:50 +1000
 categories: [books]
-excerpt: Rich Dad Poor Dad
+excerpt: A life-changing read for me. To view the world from a different lens and it's never too late.
+description: A life-changing read for me. To view the world from a different lens and it's never too late.
 ---
 
 ## Rich Dad Poor Dad
@@ -12,7 +13,7 @@ So I've finally ventured into reading some finance when someone recommended me "
 
 On a more serious note, upon completing the book, it kept me awake rolling in my bed as I pondered many of its (well for me at least) revolutionizing insights into the world of money. What is deceiving in the book is that its core message isn't about getting rich - instead, it emphasizes **intelligence** - specially financial intelligence. However you can draw many parallels to other fields where the growth mindset, pragmatism and critical thinking are common talking points albeit implicitly.
 
-In many ways, the "Poor Dad" is very much myself and my own dad - and after completing the book, I'm very inspired to change this. There were so many epiphany moments whilst reading that I was often ashamed in my own ignorance - being financially illiterate. On the flip-side, the ecstasy of learning something so new and different; was and *is* one of the greatest joys in life. This book I believe will be a catalyst for my future financial pursuits and perhaps one of those life changing moments - as Kiyosaki referenced Robert Frost's "The Road Not Taken".
+In many ways, the "Poor Dad" is very much myself and my own dad - and after completing the book, I'm very inspired to change this. There were so many epiphany moments whilst reading that I was often ashamed in my own ignorance - being financially illiterate. On the flip-side, the ecstasy of learning something so new and different, was and *is* one of the greatest joys in life. This book I believe will be a catalyst for my future financial pursuits and perhaps one of those life changing moments - as Kiyosaki referenced Robert Frost's "The Road Not Taken".
 
 Although I feel I will revisit his book often, I do want to etch his key lessons in my blog.
 

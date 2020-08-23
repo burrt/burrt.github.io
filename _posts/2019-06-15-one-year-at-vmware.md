@@ -3,7 +3,8 @@ layout: blog-post
 title: "One year at VMware"
 date: 2019-06-15 13:46:31 +1000
 categories: [vmware]
-excerpt: One year working at VMware
+excerpt: After a year of working at VMware as a Graduate.
+description: After a year of working at VMware as a Graduate.
 ---
 
 ## One year

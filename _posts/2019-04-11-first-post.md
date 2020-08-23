@@ -3,7 +3,8 @@ layout: blog-post
 title: "First Jekyll post!"
 date: 2019-04-11 13:46:31 +1000
 categories: [random]
-excerpt: My new website with Jekyll
+excerpt: My new website with Jekyll where previously I was handcrafting HTML, hacking pieces of JS...
+description: My new website with Jekyll where previously I was handcrafting HTML, hacking pieces of JS...
 ---
 
 *Basically I finally got around to redoing my Github Pages website with Jekyll!*
