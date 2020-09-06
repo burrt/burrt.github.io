@@ -11,6 +11,7 @@ With the rise of new technologies, innovations and challenges; I am fascinated a
 
 ## Contents
 
+* [GitHub](https://github.com/burrt)
 * [Education](#education)
 * [Work Experience](#work-experience)
 * [Programming Languages](#programming-languages)
