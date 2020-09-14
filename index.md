@@ -3,11 +3,11 @@ layout: cv-page
 image: /assets/img/gchoy-1350x650.png
 ---
 
-# Hello Stranger!
+# Hello Adventurer!
 
 Hi, I'm Geoffrey Choy, a passionate and curious Software Engineer. I'm always seeking to expand my technical skill set and to discover the ingredients of software excellence and team culture.
 
-With the rise of new technologies, innovations and challenges; I am fascinated about how the industry solves large, complex problems at scale!
+With the rise of new technologies, innovations and challenges; what a time to be alive!
 
 ## Contents
 
@@ -33,31 +33,36 @@ With the rise of new technologies, innovations and challenges; I am fascinated a
 
 ## Work Experience
 
-#### April 2018 – Present
+#### September 2020 - Present
+
+* **[Up Pay](https://uppay.online)**
+* **Technical Project Manager**
+  * Responsible for understanding the business requirements and translating them into engineering deliverables
+  * Enabling a distributed team to collaborate and work productively in an Agile workflow
+  * Provide guidance on software engineering best-practices
+
+#### April 2018 – September 2020
 
 * **[VMware](https://www.vmware.com/au/products/workspace-one/unified-endpoint-management.html)**
 * **Software Development Engineer**
-  * Member of the Windows Management Service (WMS) team working on Workspace ONE UEM and AirLift
-  * Part of an Agile SCRUM workflow with CI/CD mentality
-  * Contributed consistently with product releases
-  * Adapted quickly to SOLID principles and peer code reviews adhering to strict and consistent coding standards
-  * C#/.NET Core, SQL Server, MongoDB
+  * Designed and implemented the Windows Installer for Workspace ONE AirLift and contributed consistently to the Workspace ONE product suite
+  * Embraced the Agile SCRUM workflow with a strong CI/CD mentality
+  * Adapted quickly to SOLID design principles and peer code reviews, adhering to strict and consistent coding standards
+  * Angular, C#/.NET Core, SQL Server, MongoDB
 
 #### March 2017 – April 2018
 
 * **[Secure Agility](https://secureagility.com/)**
 * **Software Developer**
   * Responsible for designing a monitoring application for a client's network infrastructure
-  * Integrating hardware sensors into AWS services like AWS IoT, DynamoDB etc.
   * Responsible for translating business requirements to software deliverables
-  * SQL Server, Python, HTML/CSS/JS
+  * AWS Services, SQL Server, Python, HTML/CSS/JS
 
 #### November 2016 – March 2017
 
 * **[UNSW CSE Embedded Systems](https://www.engineering.unsw.edu.au/computer-science-engineering/)**
 * **Research Assistant**
   * Designing a MIPS I Memory Management Unit to run Linux on an FPGA with existing system tools
-  * Rewrite drivers to support Linux
   * Modifying in-house instruction set simulators to boot Linux
   * VHDL, C, D, ASM
 
