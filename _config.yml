@@ -23,6 +23,8 @@ baseurl: ""
 github_username: burrt
 gh_url: "https://burrt.github.io/"
 
+google_analytics: UA-104494941-6
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
