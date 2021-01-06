@@ -47,14 +47,19 @@ defaults:
       path: ""
       type: "posts"
     values:
-      lang: "en"
-      image: /assets/img/gchoy-1350x650.png
+      image: /assets/img/gchoy-1024x512.png
+      height: 512
+      width: 1024
 
 # SEO
 social:
   name: Geoffrey Choy
   links:
     - https://www.linkedin.com/in/geoffrey-choy
+
+twitter:
+  username: gcho300
+  card: summary
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
