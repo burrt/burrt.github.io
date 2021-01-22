@@ -32,4 +32,21 @@ Easier said than done. That is true in part but it can be overcome, it's all up 
 
 The power of words is tremendous, many notable psychology studies have shown how positive reinforcement can have significant positive effects on your actions []. Identify what stops you from achieving the results, often it will be you. Don't be afraid, don't let fear control you - prepare, do the work and embrace it.
 
+## To Change, you must first change your Thinking
+
+> To change your life, change your thinking.
+
+All those times when my coach was fixing a certain technique of my stroke or when he was teaching me a new one, he would always reply to struggles, be it verbal or not, with "change your thinking." In my attempts to adjust my the swing arc or slant of my racquet, the ingrained muscle memory and autonomous nature of our mind resists - and naturally we relax, it's easy to say at this point, "it's too hard." But it isn't, and the seeds of change starts by changing your thinking since the brain is what controls everything else, including my muscles.
+
+And we can see this ripple out into our lives where often we spew a list of excuses against change, and our focus is usually directed to the excuses and obstacles, not to our thinking. After all, who likes to blame themselves?
+
+## Before you can control any situation, you must control yourself
+
+> Before you can control any situation, you must first control yourself.
+
+Control is paramount in squash; he who controls the tempo, their shots, their movements, controls the game. To win a game, you must master your shots and your own movements before you can master the game - how can you master the game if you can't master how and where you hit a squash ball?
+
+This isn't to encourage being a control-freak or micro-manage, but to identify and understand what to control first before controlling more. It is also critical to know what is outside your sphere of control - do not be tempted to obtain what you cannot control as it comes with a heavy price.
+
+
 *Updated: 21-01-21*
