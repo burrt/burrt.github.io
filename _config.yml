@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: My Website
+author: Geoffrey Choy
 email: geoffchoy@outlook.com
 description: >-
   A little about me and a few thoughts I jot down every so often
@@ -60,6 +61,8 @@ social:
 twitter:
   username: gcho300
   card: summary
+
+logo: /favicons/favicon-96x96.png
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
