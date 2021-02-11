@@ -8,31 +8,19 @@ My personal website I've created using Jekyll and Github Pages! It can be viewed
 $ git clone https://github.com/burrt/burrt.github.io.git
 ```
 
-## Building
+## Getting Started
 
-You can build and host the pages locally - first setup [Jekyll](https://jekyllrb.com/docs/) in your local environment.
+### Docker
+
+```bash
+$ docker-compose up
+```
 
 ### Linux
+
+You can build and host the pages locally - first setup [Jekyll](https://jekyllrb.com/docs/) in your local environment. I do recommend using Docker.
 
 ```bash
 $ bundle install
 $ bundle exec jekyll serve
 ```
-
-### Windows
-
-#### Docker
-
-```powershell
-# Powershell
-PS> docker run `
-    --rm `
-    --label=jekyll `
-    --volume=${pwd}:/srv/jekyll `
-    -it -p 4000:4000 jekyll/jekyll `
-    jekyll serve `
-        --force_polling `
-        --config _config.yml,_config_development.yml
-```
-
-Or alternatively, run the Powershell script `.\RunDocker.ps1`.
