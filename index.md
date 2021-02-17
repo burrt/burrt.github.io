@@ -13,8 +13,8 @@ With the rise of new technologies, innovations and challenges; what a time to be
 
 * [GitHub](https://github.com/burrt)
 * [Education](#education)
-* [Work Experience](#work-experience)
 * [Programming Languages](#programming-languages)
+* [Work Experience](#work-experience)
 * [Interests](#interests)
 
 ## Education
@@ -23,13 +23,22 @@ With the rise of new technologies, innovations and challenges; what a time to be
 
 * **Bachelor of Computer Engineering**
 * The University of New South Wales
-  * Credit average
 
 #### 2010 - 2012
 
 * **St. Joseph's College Hunters Hill**
 * 96.65 ATAR
   * Awarded Mathematics Scholarship
+
+## Programming Languages
+
+| Language           | Proficiency  | Last Used | Use Case            |
+|--------------------|--------------|-----------|---------------------|
+| C#/.NET            | Strong       | 2021      | Enterprise software |
+| Java               | Intermediate | 2020      | Hobby projects      |
+| Python             | Intermediate | 2018      | Startup/scripts     |
+| HTML/CSS/JS/TS     | Basic        | 2020      | Enterprise software |
+| C, D, Erlang, VHDL | Basic        | 2017      | University          |
 
 ## Work Experience
 
@@ -40,6 +49,13 @@ With the rise of new technologies, innovations and challenges; what a time to be
   * Responsible for understanding the business requirements and translating them into engineering deliverables
   * Enabling a distributed team to collaborate and work productively in an Agile workflow
   * Provide guidance on software engineering best-practices
+
+#### September 2020 - December 2020
+
+* **[Zoomo](https://www.ridezoomo.com/  )**
+* **Software Engineer**
+  * Designed and implemented a project for close to real-time reporting and analytics for various data points
+  * Azure, Google BigQuery, C#/.NET Core
 
 #### April 2018 – September 2020
 
@@ -65,16 +81,6 @@ With the rise of new technologies, innovations and challenges; what a time to be
   * Designing a MIPS I Memory Management Unit to run Linux on an FPGA with existing system tools
   * Modifying in-house instruction set simulators to boot Linux
   * VHDL, C, D, ASM
-
-## Programming Languages
-
-| Language           | Proficiency  | Last Used | Use Case                            |
-|--------------------|--------------|-----------|-------------------------------------|
-| C#/.NET            | Strong       | 2020      | Enterprise software                 |
-| Java               | Intermediate | 2020      | Hobby projects                      |
-| Python             | Intermediate | 2018      | Startup software/scripts            |
-| HTML/CSS/JS        | Basic        | 2019      | Hobby projects, Enterprise software |
-| C, D, Erlang, VHDL | Basic        | 2017      | University                          |
 
 ## Interests
 
