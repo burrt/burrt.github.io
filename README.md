@@ -1,6 +1,6 @@
 # My website
 
-My personal website I've created using Jekyll and Github Pages! It can be viewed at [here](https://burrt.github.io/).
+My personal website I've created using Jekyll and Github Pages - it can be viewed [here!](https://burrt.github.io/)
 
 ## Cloning
 
@@ -23,4 +23,12 @@ You can build and host the pages locally - first setup [Jekyll](https://jekyllrb
 ```bash
 $ bundle install
 $ bundle exec jekyll serve
+```
+
+## Upgrading Gems
+
+To test upgrading of the Gems for either new features and/or security vulnerabilities:
+
+```bash
+$ bundle update github-pages
 ```
