@@ -16,7 +16,9 @@ A philosophy my squash coach imparted upon me over the years, from when I first 
 > You only need to think about the ball you're going to hit right now, not the one that just went, or the next ball - now.
 > Think of it as if you are standing by the riverbed watching the water pass you, at that point it does is what matters - not the sticks or water that went, but the moment it reaches you. Focus on that and then move on.
 
-## Never just be "in" the Game, be "in" and "out" of the Game
+It is essential in squash that you don't consume your energy on the last point, or the one prior - rather it is dedicated to the point being played. This lesson too can be impressed upon our daily lives, to move on from the past, treat every day a new day and you'll feel much better.
+
+## Never just be *in* the Game, be *in* and *out* of the Game
 
 > Never be in the game, you'll get lost, heated, tired, worried - but be outside of the game, above it! From there you see the birds-eye-view and there you're the puppeteer. The game is now about moving in and out of it - like your focus on a squash ball; a constant flux of narrow and wide.
 
@@ -34,7 +36,7 @@ The power of words is tremendous, many notable psychology studies have shown how
 
 ## To Change, you must first change your Thinking
 
-> To change your life, change your thinking.
+> To change something, first change your thinking.
 
 All those times when my coach was fixing a certain technique of my stroke or when he was teaching me a new one, he would always reply to struggles, be it verbal or not, with "change your thinking." In my attempts to adjust my the swing arc or slant of my racquet, the ingrained muscle memory and autonomous nature of our mind resists - and naturally we relax, it's easy to say at this point, "it's too hard." But it isn't, and the seeds of change starts by changing your thinking since the brain is what controls everything else, including my muscles.
 
