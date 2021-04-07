@@ -3,7 +3,6 @@ layout: blog-post
 title: "Tiger Leaping Gorge Hike"
 date: 2019-11-07 22:15:00 +1000
 categories: [hiking, walks]
-excerpt: Tiger Leaping Gorge hike I did with my sister in China - tips, gotchas, agenda etc!
 description: Tiger Leaping Gorge hike I did with my sister in China - tips, gotchas, agenda etc!
 ---
 

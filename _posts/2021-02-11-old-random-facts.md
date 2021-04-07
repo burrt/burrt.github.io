@@ -3,7 +3,6 @@ layout: blog-post
 title: "Random Facts"
 date: 2021-02-11 13:47:00 +1100
 categories: [random]
-excerpt: Some random facts I've had in my notes section for ages
 description: Some random facts I've had in my notes section for ages
 ---
 

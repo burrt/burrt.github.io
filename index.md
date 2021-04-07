@@ -42,7 +42,7 @@ With the rise of new technologies, innovations and challenges; what a time to be
 
 ## Work Experience
 
-#### September 2020 - Present
+#### August 2020 - Present
 
 * **[Up Pay](https://uppay.online)**
 * **Technical Project Manager**

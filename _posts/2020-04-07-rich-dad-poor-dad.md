@@ -3,7 +3,6 @@ layout: blog-post
 title: "Rich Dad Poor Dad"
 date: 2020-04-07 20:59:50 +1000
 categories: [books]
-excerpt: A life-changing read for me. To view the world from a different lens and it's never too late.
 description: A life-changing read for me. To view the world from a different lens and it's never too late.
 ---
 
