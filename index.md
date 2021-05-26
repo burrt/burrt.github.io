@@ -1,6 +1,6 @@
 ---
 layout: cv-page
-image: /assets/img/gchoy-1350x650.png
+image: /assets/img/rocket-square.png
 ---
 
 # Hello Adventurer!
@@ -35,14 +35,20 @@ With the rise of new technologies, innovations and challenges; what a time to be
 | Language           | Proficiency  | Last Used | Use Case            |
 |--------------------|--------------|-----------|---------------------|
 | C#/.NET            | Strong       | 2021      | Enterprise software |
-| Java               | Intermediate | 2020      | Hobby projects      |
+| Java               | Intermediate | 2021      | Enterprise software |
+| HTML/CSS/JS/TS     | Basic        | 2021      | Enterprise software |
 | Python             | Intermediate | 2018      | Startup/scripts     |
-| HTML/CSS/JS/TS     | Basic        | 2020      | Enterprise software |
 | C, D, Erlang, VHDL | Basic        | 2017      | University          |
 
 ## Work Experience
 
-#### August 2020 - Present
+#### April 2021 - Present
+
+* **[TripAdvisor](https://www.tripadvisor.com.au/)**
+* **Software Engineer**
+  * Viator Partner Platform team
+
+#### August 2020 - January 2021
 
 * **[Up Pay](https://uppay.online)**
 * **Technical Project Manager**

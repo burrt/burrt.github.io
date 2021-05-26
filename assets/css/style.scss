@@ -5,8 +5,9 @@
 @import "{{ site.theme }}";
 
 .project-name {
-  margin-top: 3rem;
+  margin-top: 10rem;
   margin-bottom: 1rem;
+  color: #ffff;
 
   @include large {
     font-size: 3.25rem;
@@ -19,6 +20,10 @@
   @include small {
     font-size: 1.75rem;
   }
+}
+
+.project-tagline {
+  color: #ffff;
 }
 
 nav {
@@ -36,4 +41,11 @@ nav {
 
 body {
   font-size: 16px;
+}
+
+.page-header {
+  background-image: url('../img/rocket.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }

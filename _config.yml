@@ -32,9 +32,9 @@ defaults:
       path: ""
       type: "posts"
     values:
-      image: /assets/img/gchoy-1024x512.png
-      height: 512
-      width: 1024
+      image: /assets/img/rocket-square.png
+      height: 1200
+      width: 1200
 
 # SEO
 social:
