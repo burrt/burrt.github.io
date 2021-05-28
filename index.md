@@ -1,6 +1,6 @@
 ---
 layout: cv-page
-image: /assets/img/rocket-square.png
+image: /assets/img/rocket-1200x627.png
 ---
 
 # Hello Adventurer!
