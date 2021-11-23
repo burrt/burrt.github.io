@@ -25,6 +25,7 @@ description: Links to various funds/ETFs for my convenience
 - [iShares Aus ETFs](https://www.blackrock.com/institutions/en-au/fund-centre/fund-prices#!type=ishares&tab=overview&view=list)
 - [BetaShares ETFs](https://www.betashares.com.au/fund-list/fund-overview/)
 - [VanEck Aus ETFs](https://www.vaneck.com.au/vaneck-etfs/)
+- [Vanguard Aus ETFs](https://www.vanguard.com.au/personal/products/en/detail/8212/Overview)
 
 ## Global Equities
 
