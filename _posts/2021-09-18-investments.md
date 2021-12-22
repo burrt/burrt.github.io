@@ -115,3 +115,14 @@ description: Links to various funds/ETFs for my convenience
 | BetaShares Europe ETF           | [HEUR](https://www2.asx.com.au/markets/etp/heur) | [link](https://www.betashares.com.au/fund/europe-etf-currency-hedged/#performance) | [link](https://www.morningstar.com/etfs/xasx/heur/performance) | [link](https://investmentcentre.moneymanagement.com.au/factsheets/mi/n82w/betashares-wisdomtree-europe-etf-currency-hedged) |       |
 | iShares Europe ETF              | [IEU](https://www2.asx.com.au/markets/etp/ieu)   | [link](https://www.blackrock.com/au/individual/products/273427/ishares-europe-etf) | [link](https://www.morningstar.com/etfs/xasx/ieu/performance)  |                                                                                                                             |       |
 | Vanguard FTSE Europe Shares ETF | [VEQ](https://www2.asx.com.au/markets/etp/veq)   | [link](https://www.vanguard.com.au/personal/products/en/detail/8214/performance)   | [link](https://www.morningstar.com/etfs/xasx/veq/performance)  | [link](https://investmentcentre.moneymanagement.com.au/factsheets/ah/mwzq/vanguard-ftse-europe-shares-etf)                  |       |
+
+## Homework
+
+- PMI
+- [Atlanta Fed wage growth](https://www.atlantafed.org/chcs/wage-growth-tracker)
+
+### US
+
+- [US Labour force participation rate](https://fred.stlouisfed.org/series/CIVPART)
+- [US Unemployment rate](https://fred.stlouisfed.org/series/UNRATE)
+- [US Total employed](https://fred.stlouisfed.org/series/CE16OV)
