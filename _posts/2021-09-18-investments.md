@@ -25,7 +25,8 @@ description: Links to various funds/ETFs for my convenience
 - [iShares Aus ETFs](https://www.blackrock.com/institutions/en-au/fund-centre/fund-prices#!type=ishares&tab=overview&view=list)
 - [BetaShares ETFs](https://www.betashares.com.au/fund-list/fund-overview/)
 - [VanEck Aus ETFs](https://www.vaneck.com.au/vaneck-etfs/)
-- [Vanguard Aus ETFs](https://www.vanguard.com.au/personal/products/en/detail/8212/Overview)
+- [Vanguard Aus ETFs](https://www.vanguard.com.au/personal/products/en/overview/etf)
+- [ETF Securities](https://www.etfsecurities.com.au/product)
 
 ## Global Equities
 
@@ -126,3 +127,8 @@ description: Links to various funds/ETFs for my convenience
 - [US Labour force participation rate](https://fred.stlouisfed.org/series/CIVPART)
 - [US Unemployment rate](https://fred.stlouisfed.org/series/UNRATE)
 - [US Total employed](https://fred.stlouisfed.org/series/CE16OV)
+- [US Households and Nonprofit Organizations; Directly and Indirectly Held Corporate Equities as a Percentage of Total Assets, Level](https://fred.stlouisfed.org/series/BOGZ1FL153064476Q)
+- [US Margin debt](https://www.yardeni.com/pub/stmkteqmardebt.pdf)
+- [CAPE Ratio - cyclically adjusted price-to-earnings ratio](https://indices.barclays/IM/21/en/indices/static/historic-cape.app)
+- [JP Morgan Market Insights](https://am.jpmorgan.com/content/dam/jpm-am-aem/global/en/insights/market-insights/guide-to-the-markets/daily/mi-daily-gtm-us.pdf)
+- [IMF World Economic Outlook](https://www.imf.org/en/Publications/WEO)
