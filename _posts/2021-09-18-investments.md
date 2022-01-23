@@ -100,6 +100,7 @@ description: Links to various funds/ETFs for my convenience
 | iShares Asia 50 ETF | [IAA](https://www2.asx.com.au/markets/etp/iaa) | [link](https://www.blackrock.com/au/individual/products/273416/ishares-asia-50-etf) | [link](https://www.morningstar.com/etfs/xasx/iaa/performance) | [link](https://investmentcentre.moneymanagement.com.au/factsheets/mi/k49b/blackrock-ishares-asia-50-etf) |       |
 | Vanguard FTSE Asia ex Japan Shares Index ETF (VAE) | [VAE](https://www2.asx.com.au/markets/etp/vae) | [link](https://www.vanguard.com.au/personal/products/en/detail/8215/performance)                      | [link](https://www.morningstar.com/etfs/xasx/vae/performance) | [link](https://investmentcentre.moneymanagement.com.au/factsheets/mi/mybh/vanguard-ftse-asia-ex-japan-shares-index-etf) |
 | VanEck FTSE China A50 ETF | [CETF](https://www2.asx.com.au/markets/etp/cetf) | [link](https://www.vaneck.com.au/etf/equity/cetf/performance/)                      | [link](https://www.morningstar.com/etfs/xasx/cetf/performance) | [link](https://investmentcentre.moneymanagement.com.au/factsheets/mi/nb0d/vaneck-vectors-chinaamc-csi-300-etf) |
+| Fidelity Global Emerging Markets Fund (active)) | [FEMX](https://www2.asx.com.au/markets/etp/femx) | [link](https://www.fidelity.com.au/funds/fidelity-global-emerging-markets-fund-femx/)                      | [link](https://www.morningstar.com/etfs/xasx/femx/performance) | [link](https://investmentcentre.moneymanagement.com.au/factsheets/mi/k0yr/fidelity-global-emerging-markets) |
 
 ### Europe
 
