@@ -6,16 +6,25 @@ categories: [finance, investing]
 description: Links to various funds/ETFs for my convenience
 ---
 
-## Contents
-
+- [Resources](#resources)
 - [Global Equities](#global-equities)
   - [Managed Funds](#managed-funds)
+  - [ETFs](#etfs)
 - [Sector](#sector)
   - [Health](#health)
+    - [Managed Funds](#managed-funds-1)
+    - [ETFs](#etfs-1)
   - [Tech](#tech)
+    - [ETFs](#etfs-2)
 - [Regions](#regions)
   - [Asia](#asia)
+    - [Managed Funds](#managed-funds-2)
+    - [ETFs](#etfs-3)
   - [Europe](#europe)
+    - [Managed Funds](#managed-funds-3)
+    - [ETFs](#etfs-4)
+- [Homework](#homework)
+  - [US](#us)
 
 ## Resources
 
@@ -92,6 +101,8 @@ description: Links to various funds/ETFs for my convenience
 |                    | Fund                                                                             | Morningstar                                                  | Eureka                                                                        | Investment Centre                                                                        | Yahoo |
 | ------------------ | -------------------------------------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----- |
 | Platinum Asia Fund | [link](https://www.platinum.com.au/Our-Products/All-Products/Platinum-Asia-Fund) | [link](https://www.morningstar.com.au/Funds/FundReport/9894) | [link](https://www.eurekareport.com.au/managed-funds/fund/platinum-asia/9894) | [link](https://investmentcentre.moneymanagement.com.au/factsheets/mi/a5j0/platinum-asia) |       |
+| Fidelity Asia Fund  | [link](https://www.fidelity.com.au/funds/fidelity-asia-fund/) | [link](https://www.morningstar.com.au/Funds/FundReport/13316) | [link](https://www.eurekareport.com.au/managed-funds/fund/fidelity-asia/13316) | [link](https://investmentcentre.moneymanagement.com.au/factsheets/mi/n2r6/fidelity-asia) |       |
+| Ox Capital Dynamic Emerging Markets Fund  | [link](https://www.oxcapm.com/funds-performance/performance/) | [link](https://www.morningstar.com.au/Funds/FundReport/44253) | [link](https://www.eurekareport.com.au/managed-funds/fund/ox-capital-dynamic-emerging-markets/44253) | |       |
 
 #### ETFs
 
@@ -100,7 +111,7 @@ description: Links to various funds/ETFs for my convenience
 | iShares Asia 50 ETF | [IAA](https://www2.asx.com.au/markets/etp/iaa) | [link](https://www.blackrock.com/au/individual/products/273416/ishares-asia-50-etf) | [link](https://www.morningstar.com/etfs/xasx/iaa/performance) | [link](https://investmentcentre.moneymanagement.com.au/factsheets/mi/k49b/blackrock-ishares-asia-50-etf) |       |
 | Vanguard FTSE Asia ex Japan Shares Index ETF (VAE) | [VAE](https://www2.asx.com.au/markets/etp/vae) | [link](https://www.vanguard.com.au/personal/products/en/detail/8215/performance)                      | [link](https://www.morningstar.com/etfs/xasx/vae/performance) | [link](https://investmentcentre.moneymanagement.com.au/factsheets/mi/mybh/vanguard-ftse-asia-ex-japan-shares-index-etf) |
 | VanEck FTSE China A50 ETF | [CETF](https://www2.asx.com.au/markets/etp/cetf) | [link](https://www.vaneck.com.au/etf/equity/cetf/performance/)                      | [link](https://www.morningstar.com/etfs/xasx/cetf/performance) | [link](https://investmentcentre.moneymanagement.com.au/factsheets/mi/nb0d/vaneck-vectors-chinaamc-csi-300-etf) |
-| Fidelity Global Emerging Markets Fund (active)) | [FEMX](https://www2.asx.com.au/markets/etp/femx) | [link](https://www.fidelity.com.au/funds/fidelity-global-emerging-markets-fund-femx/)                      | [link](https://www.morningstar.com/etfs/xasx/femx/performance) | [link](https://investmentcentre.moneymanagement.com.au/factsheets/mi/k0yr/fidelity-global-emerging-markets) |
+| Fidelity Global Emerging Markets ETF (active) | [FEMX](https://www2.asx.com.au/markets/etp/femx) | [link](https://www.fidelity.com.au/funds/fidelity-global-emerging-markets-fund-femx/)                      | [link](https://www.morningstar.com/etfs/xasx/femx/performance) | [link](https://investmentcentre.moneymanagement.com.au/factsheets/mi/k0yr/fidelity-global-emerging-markets) |
 
 ### Europe
 
