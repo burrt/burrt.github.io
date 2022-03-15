@@ -6,6 +6,8 @@ categories: [finance, investing]
 description: Links to various funds/ETFs for my convenience
 ---
 
+## Contents
+
 - [Resources](#resources)
 - [Global Equities](#global-equities)
   - [Managed Funds](#managed-funds)
