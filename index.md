@@ -12,32 +12,20 @@ With the rise of new technologies, innovations and challenges; what a time to be
 ## Contents
 
 * [GitHub](https://github.com/burrt)
-* [Education](#education)
 * [Programming Languages](#programming-languages)
 * [Work Experience](#work-experience)
+* [Education](#education)
 * [Interests](#interests)
 
-## Education
-
-#### 2013 - 2017
-
-* **Bachelor of Computer Engineering**
-* The University of New South Wales
-
-#### 2010 - 2012
-
-* **St. Joseph's College Hunters Hill**
-* 96.65 ATAR
-  * Awarded Mathematics Scholarship
 
 ## Programming Languages
 
 | Language           | Proficiency  | Last Used | Use Case            |
 |--------------------|--------------|-----------|---------------------|
+| Java               | Strong       | 2022      | Enterprise software |
+| HTML/CSS/JS/TS     | Basic        | 2022      | Enterprise software |
+| Python             | Intermediate | 2022      | Scripts             |
 | C#/.NET            | Strong       | 2021      | Enterprise software |
-| Java               | Intermediate | 2021      | Enterprise software |
-| HTML/CSS/JS/TS     | Basic        | 2021      | Enterprise software |
-| Python             | Intermediate | 2018      | Startup/scripts     |
 | C, D, Erlang, VHDL | Basic        | 2017      | University          |
 
 ## Work Experience
@@ -46,7 +34,9 @@ With the rise of new technologies, innovations and challenges; what a time to be
 
 * **[TripAdvisor](https://www.tripadvisor.com.au/)**
 * **Software Engineer**
-  * Viator Partner Platform team
+  * A member of the Viator Partner Platform team empowering Viator's partners
+  * Designed and implemented the caching layer for one of our core services to enable the scalability and performance we were aiming for
+  * Java, React, Redis, AWS
 
 #### August 2020 - January 2021
 
@@ -54,7 +44,7 @@ With the rise of new technologies, innovations and challenges; what a time to be
 * **Technical Project Manager**
   * Responsible for understanding the business requirements and translating them into engineering deliverables
   * Enabling a distributed team to collaborate and work productively in an Agile workflow
-  * Provide guidance on software engineering best-practices
+  * Provided guidance on software engineering best-practices
 
 #### September 2020 - December 2020
 
@@ -77,8 +67,8 @@ With the rise of new technologies, innovations and challenges; what a time to be
 * **[Secure Agility](https://secureagility.com/)**
 * **Software Developer**
   * Responsible for designing a monitoring application for a client's network infrastructure
-  * Responsible for translating business requirements to software deliverables
-  * AWS Services, SQL Server, Python, HTML/CSS/JS
+  * Translated business requirements to software deliverables
+  * AWS, SQL Server, Python, HTML/CSS/JS
 
 #### November 2016 – March 2017
 
@@ -88,6 +78,19 @@ With the rise of new technologies, innovations and challenges; what a time to be
   * Modifying in-house instruction set simulators to boot Linux
   * VHDL, C, D, ASM
 
+## Education
+
+#### 2013 - 2017
+
+* **Bachelor of Computer Engineering**
+* The University of New South Wales
+
+#### 2010 - 2012
+
+* **St. Joseph's College Hunters Hill**
+* 96.65 ATAR
+  * Awarded Mathematics Scholarship
+
 ## Interests
 
 ### Outdoors
@@ -96,7 +99,6 @@ I really enjoy spending my time outdoors on bush walks and playing competitively
 
 * Tennis
 * Squash
-* Basketball
 * Hiking
 * Rock bouldering
 
