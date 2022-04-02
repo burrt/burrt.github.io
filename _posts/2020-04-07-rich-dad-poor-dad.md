@@ -8,11 +8,11 @@ description: A life-changing read for me. To view the world from a different len
 
 ## Rich Dad Poor Dad
 
-So I've finally ventured into reading some finance when someone recommended me "Rich Dad Poor Dad" by Robert Kiyosaki. It was perhaps one of the best reads I've had in a long time in the sense that I stayed up to finish it and even read it as an eBook! Both behaviors I haven't done in many years haha.
+So I've finally ventured into reading some finance when someone recommended me "Rich Dad Poor Dad" by Robert Kiyosaki. It was perhaps one of the best reads I've had in a long time, in the sense that I stayed up to finish it and even read it as an eBook! Both behaviors I haven't done in many years haha.
 
-On a more serious note, upon completing the book, it kept me awake rolling in my bed as I pondered many of its (well for me at least) revolutionizing insights into the world of money. What is deceiving in the book is that its core message isn't about getting rich - instead, it emphasizes **intelligence** - specially financial intelligence. However you can draw many parallels to other fields where the growth mindset, pragmatism and critical thinking are common talking points albeit implicitly.
+On a more serious note, upon completing the book, it kept me awake rolling in my bed as I pondered many of its (well, for me anyway) revolutionizing insights into the world of money. What is deceiving in the book is that its core message isn't about getting rich - instead, it emphasizes **intelligence** - specifically, financial intelligence. You can draw many parallels to other fields where the growth mindset, pragmatism and critical thinking are common talking points, albeit more implicit.
 
-In many ways, the "Poor Dad" is very much myself and my own dad - and after completing the book, I'm very inspired to change this. There were so many epiphany moments whilst reading that I was often ashamed in my own ignorance - being financially illiterate. On the flip-side, the ecstasy of learning something so new and different, was and *is* one of the greatest joys in life. This book I believe will be a catalyst for my future financial pursuits and perhaps one of those life changing moments - as Kiyosaki referenced Robert Frost's "The Road Not Taken".
+In many ways, the "Poor Dad" in the story is very much myself and my own dad - and after completing the book, I'm very inspired to change this. There were so many epiphany moments whilst reading that I was often ashamed in my own ignorance - being financially illiterate. On the flip-side, the ecstasy of learning something so new and different, was and *is* one of the greatest joys in life. This book I believe will be a catalyst for my future financial pursuits and perhaps one of those life changing moments - as Kiyosaki referenced Robert Frost's "The Road Not Taken".
 
 Although I feel I will revisit his book often, I do want to etch his key lessons in my blog.
 
@@ -31,15 +31,15 @@ Although I feel I will revisit his book often, I do want to etch his key lessons
 
 ### The Rich Don't Work for Money
 
-> The poor and middle class work **for money**. The rich have money **for them**.
+> The poor and middle class work **for money**. The rich have money work **for them**.
 
-This was my favorite part of the book when Kiyosaki retells his childhood memories of wanting to be rich in order to "hangout with the cool kids". The lessons the "rich" father instilled into him and to his friend was a turning point for both of them. In their naivety and creativity, they thought themselves geniuses when they melted used toothpaste bottles (copper back then) from the neighborhood into money. They were so close to the secret to getting rich - in the sense to not *work for money*.
+This was my favorite part of the book when Kiyosaki retells his childhood memories of wanting to be rich in order to "hangout with the cool kids". The lessons the "rich" father instilled into him and his friend was a turning point for both of them. In their naivety and creativity, they thought themselves geniuses when they melted used toothpaste bottles (copper back then) gathered from the neighborhood into money. They were so close to the secret to getting rich - in the sense to not *work for money*.
 
 > Fear and greed - controlling emotions
 
-It never stops surprises me when the financial world talks about emotions - I have always found the industry very similar to the tech industry where it's a rather "un-emotional" environment. The difference between the two is that the financial sector benefits from the emotional element in most people's dealings with money. Some of the tech industry in a sense would as well - for example social media - but the process of creating software is often a very logical, rational and un-emotional process. Tech is increasingly trying to leverage our emotions - notice there are "reaction" emojis now - and the rise of AI is only accelerating this process.
+It never stops surprises me when the financial world talks about emotions - I have always found the industry very similar to the tech industry where it's a rather "un-emotional" environment. The difference between the two is that the financial sector benefits (or should I say, *exploits*) from the emotional element in most peoples' dealings with money. Some of the tech industry in a sense, do as well, for example social media. But the process of creating software is often a very logical, rational and un-emotional process. And the end product is increasingly trying to leverage our emotions - notice there are "reaction" emojis now - and the improvements in AI is only accelerating this process.
 
-So going back to the book, the rich dad explains how most people simply work because of their **fear** of losing what they have i.e. lifestyle, house etc. This leads to the continuous cycle of waking up everyday under the fear factor, working hard to "work for money" so that they can pay their bills but the **greed** always grows. Most people think that when they get rich or obtain the pay-rise/promotion, then all their problems will be solved. But this is seldom the case, rather it becomes the new "normal" and the fear of losing their rise in their living standards forces them through the grind once more without ever becoming richer - this is the **trap** the rich dad tells the kids.
+So going back to the book, the rich dad explains how most people simply work because of their **fear** of losing what they have i.e. lifestyle, house etc. This leads to the continuous cycle of waking up everyday under the fear factor, working hard to "work for money" so that they can pay their bills but the **greed** always grows. Most people think that when they get rich or obtain a pay-rise/promotion, then all their problems will be solved. But this is seldom the case, rather it becomes the new "normal" and the fear of losing their living standards upgrade forces them through the grind once more without ever becoming richer - this is the **trap** the rich dad tells the kids.
 
 > So many people say, "Oh I'm not interested in money." Yet they work at a job for eight hours a day.
 
@@ -52,13 +52,13 @@ When the kids overcame the pay-rise offered by the rich dad at the shop, they *o
 
 > Keep using your **brain**, work for free, and soon your mind will show you ways of making money far beyond what I could ever pay you.
 
-So much of the book is centered around using your brain - your greatest asset - constantly in all situations and in order to really push it, allow yourself to be pressured. Working for free is one way, and another method iss to reward yourself first before paying his bills. Imagination and creativity is key to success and wealth.
+So much of the book is centered around using your brain - your greatest asset - constantly in all situations and in order to really push it, allow yourself to be pressured. Working for free is one way, and another method is to reward yourself first before paying your bills. Imagination and creativity is key to success and wealth.
 
 ### Why Teach Financial Literacy
 
 > It's not how much money you make. It's how much money you keep.
 
-Today's world is increasingly becoming faster, particularly with the emergence of technology thus it's imperative that we invest in our greatest wealth - education. Be prepared to be flexible, keep and open mind an learn - then you grow richer despite tough changes. If you think money will solve problems, then you will have a tough time. **Intelligence** solves problems and produces money. Money without financial intelligence is money soon gone.
+Today's world is increasingly becoming faster, particularly with the dominance of technology, thus it's imperative that we invest in our greatest wealth - education. Be prepared to be flexible, keep an open mind an learn - then you grow richer despite tough changes. If you think money will solve problems, then you will have a tough time. **Intelligence** solves problems and produces money. Money without financial intelligence is money soon gone.
 
 The rich dad couldn't stress the importance of financial literacy to the to kids enough but neither did he tell them to neglect their education which is modelled on the principle to "work for money". Knowledge was still crucial but to understand how to use it financially is an altogether different problem that isn't taught at schools.
 
@@ -111,8 +111,8 @@ Middle class people spend their lives buying liabilities (they think they're ass
 The fallacy we are trapped in is that we are educated to get a job, earn money and make more money - the belief that money will solve your problems.
 Because financial aptitude is missing from our education, working harder will only exacerbate our problems instead of solving them.
 
-The classic story of hardworking people who get married, move into their rented apartment together realize that they save money since it's one room now. But after some time, it's a bit cramped so they save money to buy a house.
-Career focus, and long hours are put in to achieve the dream house - as incomes increase, so does their **expenses**.
+The classic story of hardworking people who get married, move into their rented apartment together, realize that they save money since it's one room now. But after some time, it's a bit cramped so they save money to buy a house.
+Career focus, and long hours are put in to achieve the dream house - as their incomes increase, so do their **expenses**.
 
 The **biggest expense is taxes** - as you earn more, you pay more in tax. So once the couple buy their dream house, they buy a new car, furniture, appliances etc. Suddenly the liabilities section is over-populated.
 With mortgage and credit card debt growing - they are now in the **Rat Race** - the race to the bottom.
@@ -142,11 +142,11 @@ Focus on building your asset cash-flows to cover your expenses - this will mean 
 Understand your business and assets e.g. McDonald's real estate is what makes it so valuable and Ray was someone who knew the the significance of all his locations.
 Most people spend their entire lives minding someone elses business and **not their own** - the reward for this is often debt. Your business revolves around the asset column and this is what the rich focuses on - working for an employer is still necessary but remember it should always be a short-term goal.
 
-> Businesses that do not require my presence **I own** them, but they are managed or run by **other people**. If I have to work there, it's not a business - it becomes my job.
+> Businesses that **I own** do not require my presence, instead they are managed or run by **other people**. If I have to work there, it's not a business - it becomes my job.
 
 Remember the success of starting your own company is very slim - decide carefully before committing.
 
-> Once a dollar goes into your assets, it becomes your employee. The best thing about money ist hat it works 24 hours a day and can work for generations.
+> Once a dollar goes into your assets, it becomes your employee. The best thing about money is that it works 24 hours a day and can work for generations.
 
 ### The History of Taxes and the Power of Corporations
 
@@ -201,7 +201,7 @@ If it is trained well, it can create enormous wealth, on the other-hand, an untr
 > Which sounds harder to you?
 >
 > 1. Work Hard. Pay 50% in taxes and save what is left. Your savings earn 5%, which is also taxed.
-> 2. Take the time to develop your financial intelligence and harness the power of your bran and the asset column.
+> 2. Take the time to develop your financial intelligence and harness the power of your brain and the asset column.
 
 If option 1. is your choice, remember how long it will take - **time** is one of your greatest assets and is constant for everyone.
 
@@ -209,7 +209,7 @@ Investments come and go, market goes up and down as do opportunities and so on. 
 
 Investors also know how to put pieces together - knowing the bigger picture and how to fit them together can take years but this is where the big wins are.
 
-1. Find an opportunity that every else missed.
+1. Find an opportunity that everyone else missed.
     * See with your mind, not your eyes.
 2. Raise money
     * Don't just think of borrowing money from the bank.
@@ -233,7 +233,7 @@ One of the hardest part of running a company is managing people. Rich dad valued
 
 > Once people are trapped in the lifelong process of bill-paying, they become like those little hamsters running around in those metal wheels. Their little legs are spinning furiously, the wheel is turning furiously, but come tomorrow morning, they'll still be in the same cage. Great job.
 
-Take a long view of your life, instead of simply working for the money and security (which is still important), consider a second job that will teach a second skill - for example, a network-marketing company, also called multilevel marketing, if you want to learn sales skills. Learning to overcome fear and rejection are crucial to be successful. The ability to communicate to another human being, be it a customer, employee boss, etc. is the base skill of personal success. Communication skills such as writing, speaking and negotiating are crucial to a life of success. Be sure to invest in them. *Education is more valuable that money*.
+Take a long view of your life, instead of simply working for the money and security (which is still important), consider a second job that will teach a second skill - for example, a network-marketing company, also called multilevel marketing, if you want to learn sales skills. Learning to overcome fear and rejection are crucial to be successful. The ability to communicate to another human being, be it a customer, employee, boss, etc. is the base skill of personal success. Communication skills such as writing, speaking and negotiating are crucial to a life of success. Be sure to invest in them. *Education is more valuable that money*.
 
 > You can't teach an old dog new tricks.
 
@@ -272,8 +272,8 @@ Doubts paralyze us and causes **inaction** - we fail to move forward. Sometimes 
 #### Laziness
 
 > Busy people are often the most lazy.
-
-He works hard to be a good provider for his wife and children. He spends long hours at the office and brings work home on weekends. Then one day he comes home to an empty house - his wife has left with the kids. He knew there was a relationship problem but rather than work to make it strong, he stayed *busy at work*. Dismayed, his performance drops at work and he loses his job.
+>
+> He works hard to be a good provider for his wife and children. He spends long hours at the office and brings work home on weekends. > Then one day he comes home to an empty house - his wife has left with the kids. He knew there was a relationship problem but rather than work to make it strong, he stayed *busy at work*. Dismayed, his performance drops at work and he loses his job.
 
 Likewise there are many who are too busy to take care of their wealth - the cause is the same. They're busy, and they stay busy as a way of avoiding something they do not want to face. Nobody has to tell them. Deep down they know. In fact, if you remind them, they get annoyed, angry, frustrated.
 
@@ -329,9 +329,9 @@ Remember to listen to both sides of the coin - keep your mind open but never let
 
 #### 4. Master a formula and then learn a new one: the power of learning quickly
 
-Learn something and then put it into practice and master it. Then look for other formulas, combine them, improve them and make them faster.
-
 > It's not about how much you know anymore because often what you know is old. It is how fast you learn.
+
+Learn something and then put it into practice and master it. Then look for other formulas, combine them, improve them and make them faster.
 
 #### 5. Pay yourself first: the power of self-discipline
 
@@ -361,7 +361,7 @@ Many middle mangers remain middle managers because they know how to work with pe
 
 > How fast do I get my money back?
 
-Be sure to know your return on investment (ROI). For every investment, look for something you get for free e.g. a pice of free land, shares etc. McDonald's fame was in the hamburger franchise but he wanted the free real estate beneath it for free.
+Be sure to know your return on investment (ROI). For every investment, look for something you get for free e.g. a pice of free land, shares etc. McDonald's fame was in the hamburger franchise but he wanted the real estate beneath it for free.
 
 #### 8. Use assets to buy luxuries: the power of focus
 
@@ -405,6 +405,7 @@ There are three different types of incomes and in order how heavily taxed:
 2. Portfolio - derived from stocks, bones etc.
 3. Passive - mostly real estate
 
-Know the differences and learn to acquire as much passive income as possible and to retain your wealth.
+Know the differences and learn to acquire as much passive income as possible and to retain your wealth. Ordinary earned income is money you work for, and passive and portfolio income is money working for you.
 
-> Ordinary earned income is money you work for, and passive and portfolio income is money working for you.
+
+*Updated at: 2022-04-02*

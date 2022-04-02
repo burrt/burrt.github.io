@@ -20,4 +20,4 @@ This cycle of intended *simplification* can also be felt in the software develop
 
 Perhaps our lives are instead accelerating in complexity due to technology, it's imperative that we stop and reassess: **do we really need it?**
 
-*Updated at: 2021/02/08*
+*Updated at: 2021-02-08*
