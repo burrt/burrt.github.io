@@ -7,7 +7,7 @@ image: /assets/img/rocket-1200x627.png
 
 Hi, I'm Geoffrey Choy, a passionate and curious Software Engineer. I'm always seeking to expand my technical skill set and to discover the ingredients of software excellence and team culture.
 
-With the rise of new technologies, innovations and challenges; what a time to be alive!
+With the rise of new technologies, innovations, and challenges; what a time to be alive!
 
 ## Contents
 
@@ -16,7 +16,6 @@ With the rise of new technologies, innovations and challenges; what a time to be
 * [Work Experience](#work-experience)
 * [Education](#education)
 * [Interests](#interests)
-
 
 ## Programming Languages
 
@@ -32,7 +31,7 @@ With the rise of new technologies, innovations and challenges; what a time to be
 
 #### April 2021 - Present
 
-* **[TripAdvisor](https://www.tripadvisor.com.au/)**
+* **[Tripadvisor](https://www.tripadvisor.com.au/)**
 * **Software Engineer**
   * A member of the Viator Partner Platform team empowering Viator's partners
   * Designed and implemented the caching layer for one of our core services to enable the scalability and performance we were aiming for
