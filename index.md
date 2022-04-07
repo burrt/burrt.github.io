@@ -33,9 +33,9 @@ With the rise of new technologies, innovations, and challenges; what a time to b
 
 * **[Tripadvisor](https://www.tripadvisor.com.au/)**
 * **Software Engineer**
-  * A member of the Viator Partner Platform team empowering Viator's partners
+  * A member of the Viator Partner Program team empowering our partners such as content creators and travel bloggers with destinations and attractions they love
   * Designed and implemented the caching layer for one of our core services to enable the scalability and performance we were aiming for
-  * Java, React, Redis, AWS
+  * AWS, Java, React, Redis
 
 #### August 2020 - January 2021
 
@@ -59,7 +59,7 @@ With the rise of new technologies, innovations, and challenges; what a time to b
   * Designed and implemented the Windows Installer for Workspace ONE AirLift and contributed consistently to the Workspace ONE product suite
   * Embraced the Agile SCRUM workflow with a strong CI/CD mentality
   * Adapted quickly to SOLID design principles and peer code reviews, adhering to strict and consistent coding standards
-  * Angular, C#/.NET Core, SQL Server, MongoDB
+  * C#/.NET Core, MongoDB, SQL Server
 
 #### March 2017 – April 2018
 
@@ -67,7 +67,7 @@ With the rise of new technologies, innovations, and challenges; what a time to b
 * **Software Developer**
   * Responsible for designing a monitoring application for a client's network infrastructure
   * Translated business requirements to software deliverables
-  * AWS, SQL Server, Python, HTML/CSS/JS
+  * AWS, Python, JavaScript, SQL Server
 
 #### November 2016 – March 2017
 
