@@ -21,9 +21,9 @@ With the rise of new technologies, innovations, and challenges; what a time to b
 
 | Language           | Proficiency  | Last Used | Use Case            |
 |--------------------|--------------|-----------|---------------------|
-| Java               | Strong       | 2022      | Enterprise software |
-| HTML/CSS/JS/TS     | Basic        | 2022      | Enterprise software |
-| Python             | Intermediate | 2022      | Scripts             |
+| Java               | Strong       | Present   | Enterprise software |
+| HTML/CSS/JS/TS     | Basic        | Present   | Enterprise software |
+| Python             | Intermediate | Present   | Scripts             |
 | C#/.NET            | Strong       | 2021      | Enterprise software |
 | C, D, Erlang, VHDL | Basic        | 2017      | University          |
 
