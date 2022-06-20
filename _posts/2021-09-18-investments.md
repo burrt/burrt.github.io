@@ -135,6 +135,7 @@ description: Links to various funds/ETFs for my convenience
 
 - PMI
 - [Atlanta Fed wage growth](https://www.atlantafed.org/chcs/wage-growth-tracker)
+- [Google Trends](https://trends.google.com/trends/explore)
 
 ### US
 
@@ -147,3 +148,4 @@ description: Links to various funds/ETFs for my convenience
 - [JP Morgan Market Insights](https://am.jpmorgan.com/content/dam/jpm-am-aem/global/en/insights/market-insights/guide-to-the-markets/daily/mi-daily-gtm-us.pdf)
 - [IMF World Economic Outlook](https://www.imf.org/en/Publications/WEO)
 - [Inverted Yield Curve](https://www.investopedia.com/terms/i/invertedyieldcurve.asp)
+  - [Graph](https://fred.stlouisfed.org/series/T10Y2Y)
