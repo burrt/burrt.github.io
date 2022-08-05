@@ -89,9 +89,9 @@ description: Links to various funds/ETFs for my convenience
 | BetaShares Nasdaq 100 Hedged ETF      | [HNDQ](https://www2.asx.com.au/markets/etp/hndq) | [link](https://www.betashares.com.au/fund/nasdaq-100-etf-currency-hedged/#performance)                  | [link](https://www.morningstar.com/etfs/xasx/hndq/performance) | [link](https://investmentcentre.moneymanagement.com.au/factsheets/ah/r6gw/betashares-nasdaq-100-etf-currency-hedged) |                                                                 |
 | BetaShares ASIA ETF                   | [ASIA](https://www2.asx.com.au/markets/etp/asia) | [link](https://www.betashares.com.au/fund/asia-technology-tigers-etf/#performance)                      | [link](https://www.morningstar.com/etfs/xasx/asia/performance) | [link](https://investmentcentre.moneymanagement.com.au/factsheets/mi/pkz4/betashares-asia-technology-tigers-etf)     |                                                                 |
 | BetaShares Global Robotics and AI ETF | [RBTZ](https://www2.asx.com.au/markets/etp/rbtz) | [link](https://www.betashares.com.au/fund/global-robotics-and-artificial-intelligence-etf/#performance) | [link](https://www.morningstar.com/etfs/xasx/rbtz/performance) |                                                                                                                      |                                                                 |
-| iShares Semiconductor ETF             | NASDAQ:SOXX                                      | [link](https://www.ishares.com/us/products/239705/ishares-phlx-semiconductor-etf)                       | [link](https://www.morningstar.com/etfs/xnas/soxx/performance) |                                                                                                                      | [link](https://au.finance.yahoo.com/quote/SOXX/performance)     |
-| VanEck Semiconductor ETF              | NASDAQ:SMH                                       | [link](https://www.vaneck.com/us/en/investments/semiconductor-etf-smh/performance-distributions/)       | [link](https://www.morningstar.com/etfs/xnas/smh/performance)  |                                                                                                                      | [link](https://au.finance.yahoo.com/quote/SMH/performance)      |
-| ARK Innovation ETF                    | NASDAQ:ARKK                                      | [link](https://ark-funds.com/arkk#performance)                                                          | [link](https://www.morningstar.com/etfs/arcx/arkk/performance) |                                                                                                                      | [link](https://finance.yahoo.com/quote/ARKK/performance?p=ARKK) |
+| iShares Semiconductor ETF             | [Nasdaq:SOXX](https://www.wsj.com/market-data/quotes/etf/SOXX)                                      | [link](https://www.ishares.com/us/products/239705/ishares-phlx-semiconductor-etf)                       | [link](https://www.morningstar.com/etfs/xnas/soxx/performance) |                                                                                                                      | [link](https://au.finance.yahoo.com/quote/SOXX/performance)     |
+| VanEck Semiconductor ETF              | [Nasdaq:SMH](https://www.wsj.com/market-data/quotes/etf/SMH)                                       | [link](https://www.vaneck.com/us/en/investments/semiconductor-etf-smh/performance-distributions/)       | [link](https://www.morningstar.com/etfs/xnas/smh/performance)  |                                                                                                                      | [link](https://au.finance.yahoo.com/quote/SMH/performance)      |
+| ARK Innovation ETF                    | [Nasdaq:ARKK](https://www.wsj.com/market-data/quotes/etf/ARKK)                                      | [link](https://ark-funds.com/arkk#performance)                                                          | [link](https://www.morningstar.com/etfs/arcx/arkk/performance) |                                                                                                                      | [link](https://finance.yahoo.com/quote/ARKK/performance?p=ARKK) |
 | ETFS Battery Tech & Lithium ETF       | [ACDC](https://www2.asx.com.au/markets/etp/acdc) | [link](https://www.etfsecurities.com.au/product/acdc)                                                   | [link](https://www.morningstar.com/etfs/xasx/acdc/performance) |                                                                                                                      |                                                                 |
 
 ## Regions
@@ -131,9 +131,24 @@ description: Links to various funds/ETFs for my convenience
 | iShares Europe ETF              | [IEU](https://www2.asx.com.au/markets/etp/ieu)   | [link](https://www.blackrock.com/au/individual/products/273427/ishares-europe-etf) | [link](https://www.morningstar.com/etfs/xasx/ieu/performance)  |                                                                                                                             |       |
 | Vanguard FTSE Europe Shares ETF | [VEQ](https://www2.asx.com.au/markets/etp/veq)   | [link](https://www.vanguard.com.au/personal/products/en/detail/8214/performance)   | [link](https://www.morningstar.com/etfs/xasx/veq/performance)  | [link](https://investmentcentre.moneymanagement.com.au/factsheets/ah/mwzq/vanguard-ftse-europe-shares-etf)                  |       |
 
+### US
+
+#### ETFs
+
+|Name|Ticker|ETF|Morningstar|
+|---|---|---|---|
+|iShares US Financials ETF|[NYSE:IYF](https://www.wsj.com/market-data/quotes/etf/IYF)|[link](https://www.ishares.com/us/products/239508/ishares-us-financials-etf)|[link](https://www.morningstar.com/etfs/arcx/iyf/performance)|
+|The Financial Select Sector SPDR® Fund|[NYSE:XLF](https://www.wsj.com/market-data/quotes/etf/XLF)|[link](https://www.ssga.com/us/en/intermediary/etfs/funds/the-financial-select-sector-spdr-fund-xlf)|[link](https://www.morningstar.com/etfs/arcx/xlf/performance)|
+|iShares US Financial Services ETF|[NYSE:IYG](https://www.wsj.com/market-data/quotes/etf/IYG)|[link](https://www.ishares.com/us/products/239509/ishares-us-financial-services-etf)|[link](https://www.morningstar.com/etfs/arcx/iyg/performance)
+
 ## Homework
 
 - PMI
+  - [China Caixin PMI](https://www.investing.com/economic-calendar/chinese-caixin-manufacturing-pmi-753)
+  - [China Official PMI](https://www.investing.com/economic-calendar/chinese-manufacturing-pmi-594)
+  - [US PMI](https://www.investing.com/economic-calendar/manufacturing-pmi-829)
+  - [Australia PMI](https://au.investing.com/economic-calendar/manufacturing-pmi-1838)
+  - [EU PMI](https://www.investing.com/economic-calendar/manufacturing-pmi-201)
 - [Atlanta Fed wage growth](https://www.atlantafed.org/chcs/wage-growth-tracker)
 - [Google Trends](https://trends.google.com/trends/explore)
 
@@ -149,3 +164,11 @@ description: Links to various funds/ETFs for my convenience
 - [IMF World Economic Outlook](https://www.imf.org/en/Publications/WEO)
 - [Inverted Yield Curve](https://www.investopedia.com/terms/i/invertedyieldcurve.asp)
   - [Graph](https://fred.stlouisfed.org/series/T10Y2Y)
+
+## Gotcha's
+
+Australian context:
+
+- 30 June is when the distributions are paid out, you'll likely to see funds/ETFs fall
+  - investors benefit with mutual funds in that if their distributions are automatically re-invested, they won't pay the spread. ETF holders will.
+- ETFs that track a mutual fund are often the most liquid so fund managers are likely to displace them first and/or put riskier bets towards EOM depending on their performance targets
