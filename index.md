@@ -3,11 +3,9 @@ layout: cv-page
 image: /assets/img/rocket-1200x627.png
 ---
 
-# Hello Adventurer!
+# Hello 👋🏼
 
-Hi, I'm Geoffrey Choy, a passionate and curious Software Engineer. I'm always seeking to expand my technical skill set and to discover the ingredients of software excellence and team culture.
-
-With the rise of new technologies, innovations, and challenges; what a time to be alive!
+> "Just trying to do my part in reducing inequalities in society, bridging the gap between rich and poor, and spending my time in more worthwhile endeavours"
 
 ## Contents
 
@@ -21,15 +19,21 @@ With the rise of new technologies, innovations, and challenges; what a time to b
 
 | Language           | Proficiency  | Last Used | Use Case            |
 |--------------------|--------------|-----------|---------------------|
-| Java               | Strong       | Present   | Enterprise software |
+| C#/.NET            | Strong       | Present   | Enterprise software |
+| Java               | Strong       | 2022      | Enterprise software |
 | HTML/CSS/JS/TS     | Basic        | Present   | Enterprise software |
 | Python             | Intermediate | Present   | Scripts             |
-| C#/.NET            | Strong       | 2021      | Enterprise software |
 | C, D, Erlang, VHDL | Basic        | 2017      | University          |
 
 ## Work Experience
 
-#### April 2021 - Present
+#### October 2022 - Present
+
+* **[Future Super](https://www.futuresuper.com.au/)**
+* **Senior Software Engineer**
+  * We don’t just invest responsibly and sustainably - we invest for impact
+
+#### April 2021 - September 2022
 
 * **[Tripadvisor](https://www.tripadvisor.com.au/)**
 * **Software Engineer**
@@ -106,6 +110,7 @@ I really enjoy spending my time outdoors on bush walks and playing competitively
 I also enjoy my time indoors such as reading:
 
 * History
-* Literature
+* Fiction
 * Philosophy
-* Fiction classics
+* Psychology
+* Investing
