@@ -28,6 +28,10 @@ description: Links to various funds/ETFs for my convenience
 - [Homework](#homework)
   - [US](#us)
 
+## Overview
+
+- [My eToro](https://www.etoro.com/people/burrrt/stats)
+
 ## Resources
 
 - [Morningstar Managed Funds Aus Performance Table](https://www.morningstar.com.au/tools/newfundscreener?elqTrackId=f749afdc13564158857899bdd114a6d9&elqaid=85&elqat=2)
@@ -169,6 +173,6 @@ description: Links to various funds/ETFs for my convenience
 
 Australian context:
 
-- 30 June is when the distributions are paid out, you'll likely to see funds/ETFs fall
+- June 30 is when the distributions are paid out, you'll likely to see funds/ETFs fall
   - investors benefit with mutual funds in that if their distributions are automatically re-invested, they won't pay the spread. ETF holders will.
 - ETFs that track a mutual fund are often the most liquid so fund managers are likely to displace them first and/or put riskier bets towards EOM depending on their performance targets
