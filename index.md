@@ -20,9 +20,9 @@ image: /assets/img/rocket-1200x627.png
 | Language           | Proficiency  | Last Used | Use Case            |
 |--------------------|--------------|-----------|---------------------|
 | C#/.NET            | Strong       | Present   | Enterprise software |
-| Java               | Strong       | 2022      | Enterprise software |
-| HTML/CSS/JS/TS     | Basic        | Present   | Enterprise software |
 | Python             | Intermediate | Present   | Scripts             |
+| HTML/CSS/JS/TS     | Basic        | 2022      | Enterprise software |
+| Java               | Strong       | 2022      | Enterprise software |
 | C, D, Erlang, VHDL | Basic        | 2017      | University          |
 
 ## Work Experience
