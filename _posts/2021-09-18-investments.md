@@ -168,6 +168,11 @@ description: Links to various funds/ETFs for my convenience
 - [IMF World Economic Outlook](https://www.imf.org/en/Publications/WEO)
 - [Inverted Yield Curve](https://www.investopedia.com/terms/i/invertedyieldcurve.asp)
   - [Graph](https://fred.stlouisfed.org/series/T10Y2Y)
+- [Russell Investments - Economic Indicators Dashboard](https://russellinvestments.com/us/resources/financial-professionals/economic-indicators-dashboard)
+
+### China
+
+- [2023 McKinsey China Consumer Report](https://www.mckinsey.com/cn/our-insights/our-insights/2023-mckinsey-china-consumer-report)
 
 ## Gotcha's
 
