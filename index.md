@@ -31,10 +31,8 @@ image: /assets/img/rocket-1200x627.png
 
 * **[Future Super](https://www.futuresuper.com.au/)**
 * **Senior Software Engineer**
-* We seek impactful investments creating systems change
-* We exclude investments with harmful impacts on people or the planet
-* AWS, C#/.NET
-
+* We care about what kind of future your super investments deliver, so we choose renewables over fossil fuels, responsibility over a quick buck, and the future over now
+* AWS, C#/.NET, serverless
 
 #### April 2021 - September 2022
 
