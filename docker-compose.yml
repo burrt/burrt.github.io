@@ -1,8 +1,8 @@
 services:
-    # udpate the Gems, this may cause problems!
+    # update the Gems, this may cause problems!
     # update:
     #     image: jekyll/jekyll:3.8
-    #     command: bundle update
+    #     command: bundle update github-pages
     #     volumes:
     #         - .:/srv/jekyll
 
