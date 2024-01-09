@@ -1,7 +1,17 @@
-jekyll:
-    image: jekyll/jekyll
-    command: jekyll serve --watch --incremental --config _config.yml,_config_development.yml
-    ports:
-        - 4000:4000
-    volumes:
-        - .:/srv/jekyll
+services:
+    # udpate the Gems, this may cause problems!
+    # update:
+    #     image: jekyll/jekyll:3.8
+    #     command: bundle update
+    #     volumes:
+    #         - .:/srv/jekyll
+
+    jekyll:
+        # https://pages.github.com/versions/
+        # https://hub.docker.com/r/jekyll/jekyll/tags
+        image: jekyll/jekyll:3.8
+        command: jekyll serve --watch --incremental --config _config.yml,_config_development.yml
+        ports:
+            - 4000:4000
+        volumes:
+            - .:/srv/jekyll

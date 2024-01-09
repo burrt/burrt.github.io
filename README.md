@@ -32,3 +32,7 @@ To test upgrading of the Gems for either new features and/or security vulnerabil
 ```bash
 $ bundle update github-pages
 ```
+
+### Docker
+
+Best to un-comment out the section in the `docker-compose.yml`
