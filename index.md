@@ -7,14 +7,6 @@ image: /assets/img/rocket-1200x627.png
 
 > "Just trying to do my part in reducing inequalities in society, bridging the gap between rich and poor, and spending my time in more worthwhile endeavours"
 
-## Quick Links
-
-* [GitHub](https://github.com/burrt)
-* [Programming Languages](#👨🏻‍💻-programming-languages)
-* [Work Experience](#🏙️-work-experience)
-* [Education](#🎓-education)
-* [Interests](#⛰️-interests)
-
 ## 👨🏻‍💻 Programming Languages
 
 | Language           | Proficiency  | Last Used | Use Case            |
