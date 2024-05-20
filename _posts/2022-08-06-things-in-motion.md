@@ -3,7 +3,7 @@ layout: blog-post
 title: "Things in motion"
 date: 2022-08-06 23:20:00 +1000
 categories: [random]
-description: We need to keep moving`
+description: We need to keep moving
 ---
 
 ## Things in motion
