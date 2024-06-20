@@ -3,19 +3,19 @@ layout: cv-page
 image: /assets/img/rocket-1200x627.png
 ---
 
-# 👋🏼 Hi!
+# Hi!
 
 > "Just trying to do my part in reducing inequalities in society, bridging the gap between rich and poor, and spending my time in more worthwhile endeavours"
 
 ## 👨🏻‍💻 Programming Languages
 
-| Language           | Proficiency  | Last Used | Use Case            |
-|--------------------|--------------|-----------|---------------------|
-| C#/.NET            | Strong       | Present   | Enterprise software |
-| Java               | Strong       | 2022      | Enterprise software |
-| Python             | Intermediate | Present   | Scripts             |
-| HTML/CSS/JS/TS     | Basic        | 2022      | Enterprise software |
-| C, D, Erlang, VHDL | Basic        | 2017      | University          |
+| Language           | Proficiency  | Last Used | Use Case      |
+|--------------------|--------------|-----------|---------------|
+| C#/.NET            | Strong       | Present   | Professional  |
+| Java               | Strong       | 2022      | Professional  |
+| Python             | Intermediate | Present   | Side Projects |
+| HTML/CSS/JS/TS     | Basic        | 2022      | Professional  |
+| C, D, Erlang, VHDL | Basic        | 2017      | University    |
 
 ## 🏙️ Work Experience
 
