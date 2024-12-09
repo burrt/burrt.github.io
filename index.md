@@ -19,6 +19,11 @@ image: /assets/img/rocket-1200x627.png
 
 ## 🏙️ Work Experience
 
+#### 2024 - Present
+
+* **[Collinson](https://www.collinsongroup.com/)** - **Senior Software Engineer**
+* AWS, C#/.NET, Serverless, Event Driven Architecture
+
 #### 2022 - 2024
 
 * **[Future Super](https://www.futuresuper.com.au/)** - **Senior Software Engineer**
@@ -30,12 +35,6 @@ image: /assets/img/rocket-1200x627.png
 * **[Tripadvisor](https://www.tripadvisor.com.au/)** - **Software Engineer**
 * Introduced a new caching layer for one of our core services to meet our API scalability and performance targets for our partners (3P). Resulted in a 50% reduction of the average latency for all requests, and 40% for the 95th percentile (WoW).
 * AWS, Java, React, Redis, Microservices, PostgreSQL
-
-#### 2020 - 2021
-
-* **[Up Pay](https://uppay.online)** - **Technical Project Manager**
-* Enabling a distributed team to collaborate and work productively in an Agile workflow and provided guidance on software engineering best-practices.
-* Jira, Confluence
 
 #### 2020
 
